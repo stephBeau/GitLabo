@@ -19,7 +19,7 @@ public class GitProject {
         int compteur = 10;
         compteur ++;
         System.out.println(compteur);
-        while (compteur < 20){
+        while (compteur < 120){
             compteur++;
             System.out.println("Problème!");
         }
