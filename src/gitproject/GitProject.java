@@ -21,6 +21,7 @@ public class GitProject {
         System.out.println(compteur);
         while (compteur < 20){
             compteur++;
+            System.out.println("Problème!");
         }
     }
     
