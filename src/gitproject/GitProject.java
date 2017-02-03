@@ -16,9 +16,11 @@ public class GitProject {
      */
     public static void main(String[] args) {
         // Ceci est mon projet version 1
-        int compteur = 0;
+        int compteur = 10;
         compteur ++;
         System.out.println(compteur);
+        
+   
         
     }
     
